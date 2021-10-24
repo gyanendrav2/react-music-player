@@ -1,6 +1,4 @@
 import React, { Suspense } from "react";
-import logo from "./logo.svg";
-import "./App.css";
 import { ThemeProvider } from "@mui/system";
 import theme from "./theme";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
