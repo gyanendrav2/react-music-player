@@ -1,0 +1,12 @@
+html {
+  font-size: 16px; /*1rem = 16px*/
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  scroll-behavior: smooth;
+  body {
+    &::-webkit-scrollbar {
+      display: none;
+    }
+    -ms-overflow-style: none;
+  }
+}
