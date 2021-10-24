@@ -79,9 +79,11 @@ const theme = createTheme({
   },
   palette: {
     primary: {
+      main: colors.black,
       black: colors.black,
     },
     secondary: {
+      main: colors.lightGray,
       lightGray: colors.lightGray,
       gray50: colors.gray50,
       gray80: colors.gray80,

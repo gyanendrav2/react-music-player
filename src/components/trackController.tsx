@@ -90,7 +90,7 @@ const useStyles = makeStyles((theme: themeInterface) => ({
     marginTop: "4.5rem",
   },
   slider: {
-    top: "-0.375rem",
+    top: "-0.187rem",
   },
   iconButton: {
     width: "3rem",
