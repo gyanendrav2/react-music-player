@@ -54,7 +54,7 @@ const useStyles = makeStyles((theme: themeInterface) => ({
   },
 }));
 
-const TrackInfoCard = () => {
+const TrackInfoCard = (): JSX.Element => {
   const classes = useStyles();
   return (
     <Box className={classes.wrapper}>

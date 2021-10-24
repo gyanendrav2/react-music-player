@@ -1,6 +1,6 @@
 import React from "react";
 
-const PauseIcon = () => {
+const PauseIcon = (): JSX.Element => {
   return (
     <svg
       width={29}

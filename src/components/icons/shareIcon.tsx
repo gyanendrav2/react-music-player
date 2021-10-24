@@ -1,6 +1,6 @@
 import React from "react";
 
-const ShareIcon = () => {
+const ShareIcon = (): JSX.Element => {
   return (
     <svg
       width={19}

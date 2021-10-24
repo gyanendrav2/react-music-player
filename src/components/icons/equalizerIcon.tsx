@@ -1,6 +1,6 @@
 import React from "react";
 
-const EqualizerIcon = () => {
+const EqualizerIcon = (): JSX.Element => {
   return (
     <svg
       width={24}

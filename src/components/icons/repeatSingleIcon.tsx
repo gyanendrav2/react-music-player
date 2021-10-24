@@ -1,6 +1,6 @@
 import React from "react";
 
-const RepeatSingleIcon = () => {
+const RepeatSingleIcon = (): JSX.Element => {
   return (
     <svg
       width={24}

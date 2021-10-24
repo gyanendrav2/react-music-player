@@ -1,6 +1,6 @@
 import React from "react";
 
-const LoopIcon = () => {
+const LoopIcon = (): JSX.Element => {
   return (
     <svg
       width={24}

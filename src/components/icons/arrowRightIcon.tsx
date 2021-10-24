@@ -1,6 +1,6 @@
 import React from "react";
 
-const ArrowRightIcon = () => {
+const ArrowRightIcon = (): JSX.Element => {
   return (
     <svg
       width={16}

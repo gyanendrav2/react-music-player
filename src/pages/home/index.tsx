@@ -33,7 +33,7 @@ const useStyles = makeStyles({
   },
 });
 
-const Home = () => {
+const Home = (): JSX.Element => {
   const classes = useStyles();
   return (
     <Grid

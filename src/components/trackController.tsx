@@ -28,7 +28,7 @@ const useStyles = makeStyles((theme: themeInterface) => ({
       marginTop: "-4rem",
       width: "80%",
       margin: "auto",
-      paddingTop: '6rem'
+      paddingTop: "6rem",
     },
   },
   playPauseBtn: {
@@ -111,7 +111,7 @@ const useStyles = makeStyles((theme: themeInterface) => ({
   },
 }));
 
-const TrackController = () => {
+const TrackController = (): JSX.Element => {
   const classes = useStyles();
 
   return (
